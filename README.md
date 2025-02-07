@@ -1,19 +1,19 @@
 ⚙️ How to Run the Project
 Clone the repository
 
-git clone https://github.com/your-repo/streamify-dashboard.git
+git clone [https://github.com/your-repo/streamify-dashboard.git](https://github.com/Tejasmagdum2309/SpeedyAi.git)
 
 Install dependencies
-
 npm install
 (Start the development server)
 
 npm run dev
+
 Open your browser and visit http://localhost:5173/
+
 🛠 Building for Production
+
 To generate a production-ready build, run:
-
-
 npm run build
 (This will create an optimized build in the dist/ folder.)
 
